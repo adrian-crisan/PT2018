@@ -1,0 +1,16 @@
+Client 1 was added to queue 2 and arrived at Tue Apr 10 07:50:40 EEST 2018 having serving time 5
+
+ 
+Client 2 was added to queue 1 and arrived at Tue Apr 10 07:50:40 EEST 2018 having serving time 6
+
+ 
+Client 3 was added to queue 0 and arrived at Tue Apr 10 07:50:41 EEST 2018 having serving time 6
+
+ 
+Client 4 was added to queue 2 and arrived at Tue Apr 10 07:50:42 EEST 2018 having serving time 5
+
+ 
+Client 5 was added to queue 2 and arrived at Tue Apr 10 07:50:43 EEST 2018 having serving time 5
+
+Client 1 left queue 2 at Tue Apr 10 07:50:42 EEST 2018
+

@@ -1,0 +1,387 @@
+1. Total number of days: 14
+
+2. Each distinct action types' number of occurences:
+Leaving	  14
+Breakfast	  14
+Sleeping  14
+Snack	  11
+Grooming	  51
+Showering	  14
+Spare_Time/TV  77
+Toileting	  44
+Lunch  9
+3. Activity count for each dat: 
+  Leaving	  1
+  Breakfast	  1
+  Sleeping  1
+  Grooming	  3
+  Showering	  1
+  Spare_Time/TV  6
+  Toileting	  2
+  Lunch  1
+  Breakfast	  1
+  Sleeping  1
+  Snack	  1
+  Grooming	  4
+  Showering	  1
+  Spare_Time/TV  7
+  Toileting	  3
+  Lunch  1
+  Leaving	  1
+  Breakfast	  1
+  Sleeping  1
+  Grooming	  3
+  Showering	  1
+  Spare_Time/TV  4
+  Toileting	  2
+  Leaving	  1
+  Breakfast	  1
+  Sleeping  1
+  Snack	  2
+  Grooming	  2
+  Showering	  1
+  Spare_Time/TV  6
+  Toileting	  4
+  Leaving	  2
+  Breakfast	  1
+  Sleeping  1
+  Snack	  1
+  Grooming	  6
+  Showering	  1
+  Spare_Time/TV  7
+  Toileting	  5
+  Lunch  1
+  Breakfast	  1
+  Sleeping  1
+  Snack	  1
+  Grooming	  4
+  Showering	  1
+  Spare_Time/TV  5
+  Toileting	  3
+  Lunch  1
+  Leaving	  1
+  Breakfast	  1
+  Sleeping  1
+  Snack	  2
+  Grooming	  5
+  Showering	  1
+  Spare_Time/TV  8
+  Toileting	  6
+  Lunch  1
+  Leaving	  1
+  Breakfast	  1
+  Sleeping  1
+  Grooming	  5
+  Showering	  1
+  Spare_Time/TV  4
+  Toileting	  1
+	  Leaving	  2
+  Breakfast	  1
+  Sleeping  1
+  Grooming	  5
+  Showering	  1
+  Spare_Time/TV  6
+  Toileting	  2
+
+  Leaving	  2
+  Breakfast	  1
+  Sleeping  1
+  Grooming	  4
+  Showering	  1
+  Spare_Time/TV  3
+  Toileting	  1
+  Breakfast	  1
+  Sleeping  1
+  Grooming	  3
+  Showering	  1
+  Spare_Time/TV  3
+  Toileting	  2
+  Lunch  1
+  Leaving	  1
+  Breakfast	  1
+  Sleeping  1
+  Snack	  1
+  Grooming	  2
+  Showering	  1
+  Spare_Time/TV  4
+  Toileting	  3
+  Lunch  1
+  Leaving	  1
+  Breakfast	  1
+  Sleeping  1
+  Snack	  1
+  Grooming	  3
+  Showering	  1
+  Spare_Time/TV  6
+  Toileting	  4
+  Lunch  1
+  Leaving	  1
+  Breakfast	  1
+  Sleeping  1
+  Snack	  2
+  Grooming	  2
+  Showering	  1
+  Spare_Time/TV  8
+  Toileting	  6
+  Lunch  1
+
+4. Total duration of the activities: 
+Leaving	  27H 44M 44S
+Breakfast	  2H 58M 8S
+Sleeping  131H 3M 31S
+Snack	  0H 6M 1S
+Grooming	  2H 40M 42S
+Showering	  1H 34M 9S
+Spare_Time/TV  142H 28M 55S
+Toileting	  2H 20M 34S
+Lunch  5H 13M 31S
+5. Activities with 90% or more duration less than 5 min :Snack	
+6. Duration for each activity: 
+Label: Leaving	Duration: 0H 19M 38S
+Label: Leaving	Duration: 1H 21M 23S
+Label: Leaving	Duration: 0H 18M 28S
+Label: Leaving	Duration: 1H 20M 22S
+Label: Leaving	Duration: 3H 30M 26S
+Label: Leaving	Duration: 2H 19M 11S
+Label: Leaving	Duration: 0H 16M 59S
+Label: Leaving	Duration: 1H 40M 9S
+Label: Leaving	Duration: 1H 46M 51S
+Label: Leaving	Duration: 2H 11M 38S
+Label: Leaving	Duration: 3H 49M 40S
+Label: Leaving	Duration: 0H 16M 34S
+Label: Leaving	Duration: 4H 3M 0S
+Label: Leaving	Duration: 4H 30M 25S
+Label: Breakfast	Duration: 0H 8M 37S
+Label: Breakfast	Duration: 0H 9M 32S
+Label: Breakfast	Duration: 0H 12M 1S
+Label: Breakfast	Duration: 0H 12M 44S
+Label: Breakfast	Duration: 1H 8M 2S
+Label: Breakfast	Duration: 0H 8M 55S
+Label: Breakfast	Duration: 0H 3M 40S
+Label: Breakfast	Duration: 0H 9M 48S
+Label: Breakfast	Duration: 0H 5M 7S
+Label: Breakfast	Duration: 0H 7M 47S
+Label: Breakfast	Duration: 0H 8M 49S
+Label: Breakfast	Duration: 0H 8M 2S
+Label: Breakfast	Duration: 0H 6M 52S
+Label: Breakfast	Duration: 0H 8M 12S
+Label: SleepingDuration: 7H 50M 12S
+Label: SleepingDuration: 9H 15M 0S
+Label: SleepingDuration: 8H 44M 58S
+Label: SleepingDuration: 9H 12M 53S
+Label: SleepingDuration: 9H 59M 24S
+Label: SleepingDuration: 10H 9M 18S
+Label: SleepingDuration: 9H 18M 32S
+Label: SleepingDuration: 10H 13M 45S
+Label: SleepingDuration: 9H 24M 43S
+Label: SleepingDuration: 9H 45M 44S
+Label: SleepingDuration: 9H 34M 48S
+Label: SleepingDuration: 9H 32M 25S
+Label: SleepingDuration: 8H 35M 30S
+Label: SleepingDuration: 9H 26M 19S
+Label: Snack	Duration: 0H 0M 4S
+Label: Snack	Duration: 0H 0M 3S
+Label: Snack	Duration: 0H 0M 4S
+Label: Snack	Duration: 0H 0M 4S
+Label: Snack	Duration: 0H 0M 6S
+Label: Snack	Duration: 0H 0M 5S
+Label: Snack	Duration: 0H 0M 6S
+Label: Snack	Duration: 0H 0M 5S
+Label: Snack	Duration: 0H 0M 5S
+Label: Snack	Duration: 0H 4M 51S
+Label: Snack	Duration: 0H 0M 28S
+Label: Grooming	Duration: 0H 1M 25S
+Label: Grooming	Duration: 0H 1M 30S
+Label: Grooming	Duration: 0H 11M 16S
+Label: Grooming	Duration: 0H 2M 59S
+Label: Grooming	Duration: 0H 1M 3S
+Label: Grooming	Duration: 0H 1M 43S
+Label: Grooming	Duration: 0H 0M 9S
+Label: Grooming	Duration: 0H 0M 29S
+Label: Grooming	Duration: 0H 9M 50S
+Label: Grooming	Duration: 0H 0M 28S
+Label: Grooming	Duration: 0H 0M 13S
+Label: Grooming	Duration: 0H 4M 23S
+Label: Grooming	Duration: 1H 0M 18S
+Label: Grooming	Duration: 0H 1M 53S
+Label: Grooming	Duration: 0H 2M 26S
+Label: Grooming	Duration: 0H 0M 59S
+Label: Grooming	Duration: 0H 3M 33S
+Label: Grooming	Duration: 0H 1M 17S
+Label: Grooming	Duration: 0H 0M 59S
+Label: Grooming	Duration: 0H 0M 5S
+Label: Grooming	Duration: 0H 0M 8S
+Label: Grooming	Duration: 0H 0M 6S
+Label: Grooming	Duration: 0H 1M 34S
+Label: Grooming	Duration: 0H 0M 15S
+Label: Grooming	Duration: 0H 0M 16S
+Label: Grooming	Duration: 0H 1M 56S
+Label: Grooming	Duration: 0H 1M 57S
+Label: Grooming	Duration: 0H 0M 12S
+Label: Grooming	Duration: 0H 0M 24S
+Label: Grooming	Duration: 0H 0M 10S
+Label: Grooming	Duration: 0H 13M 41S
+Label: Grooming	Duration: 0H 0M 18S
+Label: Grooming	Duration: 0H 5M 43S
+Label: Grooming	Duration: 0H 0M 3S
+Label: Grooming	Duration: 0H 0M 11S
+Label: Grooming	Duration: 0H 0M 11S
+Label: Grooming	Duration: 0H 0M 12S
+Label: Grooming	Duration: 0H 0M 14S
+Label: Grooming	Duration: 0H 0M 18S
+Label: Grooming	Duration: 0H 1M 19S
+Label: Grooming	Duration: 0H 0M 20S
+Label: Grooming	Duration: 0H 8M 54S
+Label: Grooming	Duration: 0H 0M 2S
+Label: Grooming	Duration: 0H 0M 13S
+Label: Grooming	Duration: 0H 0M 18S
+Label: Grooming	Duration: 0H 9M 11S
+Label: Grooming	Duration: 0H 0M 45S
+Label: Grooming	Duration: 0H 1M 22S
+Label: Grooming	Duration: 0H 1M 21S
+Label: Grooming	Duration: 0H 0M 14S
+Label: Grooming	Duration: 0H 1M 56S
+Label: Showering	Duration: 0H 7M 16S
+Label: Showering	Duration: 0H 1M 16S
+Label: Showering	Duration: 0H 3M 48S
+Label: Showering	Duration: 0H 13M 45S
+Label: Showering	Duration: 0H 4M 21S
+Label: Showering	Duration: 0H 3M 50S
+Label: Showering	Duration: 0H 3M 59S
+Label: Showering	Duration: 0H 7M 33S
+Label: Showering	Duration: 0H 13M 38S
+Label: Showering	Duration: 0H 5M 41S
+Label: Showering	Duration: 0H 4M 55S
+Label: Showering	Duration: 0H 3M 23S
+Label: Showering	Duration: 0H 4M 58S
+Label: Showering	Duration: 0H 15M 46S
+Label: Spare_Time/TVDuration: 2H 13M 26S
+Label: Spare_Time/TVDuration: 0H 43M 0S
+Label: Spare_Time/TVDuration: 5H 12M 59S
+Label: Spare_Time/TVDuration: 5H 44M 45S
+Label: Spare_Time/TVDuration: 0H 2M 21S
+Label: Spare_Time/TVDuration: 1H 46M 48S
+Label: Spare_Time/TVDuration: 0H 25M 54S
+Label: Spare_Time/TVDuration: 0H 33M 50S
+Label: Spare_Time/TVDuration: 1H 14M 22S
+Label: Spare_Time/TVDuration: 4H 51M 47S
+Label: Spare_Time/TVDuration: 2H 23M 21S
+Label: Spare_Time/TVDuration: 1H 3M 56S
+Label: Spare_Time/TVDuration: 0H 20M 24S
+Label: Spare_Time/TVDuration: 1H 27M 23S
+Label: Spare_Time/TVDuration: 1H 19M 23S
+Label: Spare_Time/TVDuration: 0H 41M 26S
+Label: Spare_Time/TVDuration: 0H 39M 31S
+Label: Spare_Time/TVDuration: 5H 20M 24S
+Label: Spare_Time/TVDuration: 2H 58M 56S
+Label: Spare_Time/TVDuration: 1H 17M 17S
+Label: Spare_Time/TVDuration: 0H 19M 37S
+Label: Spare_Time/TVDuration: 0H 15M 31S
+Label: Spare_Time/TVDuration: 4H 22M 51S
+Label: Spare_Time/TVDuration: 1H 24M 0S
+Label: Spare_Time/TVDuration: 0H 49M 8S
+Label: Spare_Time/TVDuration: 2H 8M 42S
+Label: Spare_Time/TVDuration: 0H 31M 7S
+Label: Spare_Time/TVDuration: 0H 38M 5S
+Label: Spare_Time/TVDuration: 2H 51M 29S
+Label: Spare_Time/TVDuration: 1H 44M 55S
+Label: Spare_Time/TVDuration: 3H 54M 37S
+Label: Spare_Time/TVDuration: 1H 7M 6S
+Label: Spare_Time/TVDuration: 0H 31M 32S
+Label: Spare_Time/TVDuration: 6H 3M 10S
+Label: Spare_Time/TVDuration: 3H 20M 55S
+Label: Spare_Time/TVDuration: 0H 57M 17S
+Label: Spare_Time/TVDuration: 0H 51M 39S
+Label: Spare_Time/TVDuration: 0H 16M 40S
+Label: Spare_Time/TVDuration: 0H 49M 24S
+Label: Spare_Time/TVDuration: 3H 20M 55S
+Label: Spare_Time/TVDuration: 3H 5M 50S
+Label: Spare_Time/TVDuration: 0H 40M 17S
+Label: Spare_Time/TVDuration: 0H 17M 14S
+Label: Spare_Time/TVDuration: 0H 37M 17S
+Label: Spare_Time/TVDuration: 0H 22M 20S
+Label: Spare_Time/TVDuration: 0H 42M 57S
+Label: Spare_Time/TVDuration: 0H 57M 25S
+Label: Spare_Time/TVDuration: 3H 31M 10S
+Label: Spare_Time/TVDuration: 2H 58M 16S
+Label: Spare_Time/TVDuration: 1H 49M 18S
+Label: Spare_Time/TVDuration: 0H 46M 52S
+Label: Spare_Time/TVDuration: 1H 14M 57S
+Label: Spare_Time/TVDuration: 4H 27M 10S
+Label: Spare_Time/TVDuration: 0H 46M 40S
+Label: Spare_Time/TVDuration: 2H 33M 12S
+Label: Spare_Time/TVDuration: 0H 46M 4S
+Label: Spare_Time/TVDuration: 0H 39M 13S
+Label: Spare_Time/TVDuration: 1H 5M 55S
+Label: Spare_Time/TVDuration: 0H 2M 6S
+Label: Spare_Time/TVDuration: 2H 27M 7S
+Label: Spare_Time/TVDuration: 2H 12M 16S
+Label: Spare_Time/TVDuration: 2H 5M 10S
+Label: Spare_Time/TVDuration: 5H 48M 56S
+Label: Spare_Time/TVDuration: 0H 58M 23S
+Label: Spare_Time/TVDuration: 1H 48M 32S
+Label: Spare_Time/TVDuration: 1H 23M 22S
+Label: Spare_Time/TVDuration: 0H 13M 59S
+Label: Spare_Time/TVDuration: 0H 52M 41S
+Label: Spare_Time/TVDuration: 0H 16M 45S
+Label: Spare_Time/TVDuration: 1H 44M 37S
+Label: Spare_Time/TVDuration: 3H 11M 22S
+Label: Spare_Time/TVDuration: 0H 29M 8S
+Label: Spare_Time/TVDuration: 2H 30M 49S
+Label: Spare_Time/TVDuration: 3H 5M 28S
+Label: Spare_Time/TVDuration: 1H 24M 48S
+Label: Spare_Time/TVDuration: 1H 53M 29S
+Label: Spare_Time/TVDuration: 5H 57M 57S
+Label: Toileting	Duration: 0H 2M 12S
+Label: Toileting	Duration: 0H 0M 27S
+Label: Toileting	Duration: 0H 4M 29S
+Label: Toileting	Duration: 0H 5M 0S
+Label: Toileting	Duration: 0H 0M 29S
+Label: Toileting	Duration: 0H 13M 27S
+Label: Toileting	Duration: 0H 0M 31S
+Label: Toileting	Duration: 0H 2M 52S
+Label: Toileting	Duration: 0H 0M 32S
+Label: Toileting	Duration: 0H 0M 23S
+Label: Toileting	Duration: 0H 0M 3S
+Label: Toileting	Duration: 0H 0M 26S
+Label: Toileting	Duration: 0H 0M 25S
+Label: Toileting	Duration: 0H 0M 29S
+Label: Toileting	Duration: 0H 1M 8S
+Label: Toileting	Duration: 0H 4M 40S
+Label: Toileting	Duration: 0H 10M 0S
+Label: Toileting	Duration: 0H 17M 28S
+Label: Toileting	Duration: 0H 2M 0S
+Label: Toileting	Duration: 0H 0M 51S
+Label: Toileting	Duration: 0H 5M 59S
+Label: Toileting	Duration: 0H 3M 30S
+Label: Toileting	Duration: 0H 1M 27S
+Label: Toileting	Duration: 0H 1M 0S
+Label: Toileting	Duration: 0H 0M 30S
+Label: Toileting	Duration: 0H 0M 16S
+Label: Toileting	Duration: 0H 30M 0S
+Label: Toileting	Duration: 0H 0M 40S
+Label: Toileting	Duration: 0H 0M 8S
+Label: Toileting	Duration: 0H 1M 40S
+Label: Toileting	Duration: 0H 0M 53S
+Label: Toileting	Duration: 0H 6M 0S
+Label: Toileting	Duration: 0H 0M 24S
+Label: Toileting	Duration: 0H 3M 11S
+Label: Toileting	Duration: 0H 0M 4S
+Label: Toileting	Duration: 0H 0M 3S
+Label: Toileting	Duration: 0H 0M 28S
+Label: Toileting	Duration: 0H 0M 16S
+Label: Toileting	Duration: 0H 0M 9S
+Label: Toileting	Duration: 0H 0M 31S
+Label: Toileting	Duration: 0H 3M 20S
+Label: Toileting	Duration: 0H 7M 48S
+Label: Toileting	Duration: 0H 3M 10S
+Label: Toileting	Duration: 0H 1M 15S
+Label: LunchDuration: 0H 36M 49S
+Label: LunchDuration: 0H 31M 21S
+Label: LunchDuration: 0H 20M 42S
+Label: LunchDuration: 0H 25M 25S
+Label: LunchDuration: 0H 33M 0S
+Label: LunchDuration: 0H 43M 8S
+Label: LunchDuration: 0H 35M 5S
+Label: LunchDuration: 0H 35M 56S
+Label: LunchDuration: 0H 52M 5S
